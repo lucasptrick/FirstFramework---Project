@@ -27,7 +27,7 @@ No terminal da IDE siga o passos abaixo
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/lucasptrick/firstframework.git
+git clone https://github.com/lucasptrick/FirstFramework-Project.git
 ```
 
 2. Navegue até o diretório do projeto:
